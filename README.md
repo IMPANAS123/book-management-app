@@ -15,9 +15,6 @@ FULLSTACK-CRUD-APP/
 ├─ backend/ # Node.js + Express API
 ├─ frontend/ # React frontend
 
-markdown
-Copy code
-
 ## Installation
 
 ### Backend
@@ -26,11 +23,10 @@ Copy code
 ```bash
 npm install
 npm start
-Frontend
+
+###Frontend
 Open terminal in frontend/ folder
-
 Run:
-
 bash
 Copy code
 npm install
@@ -39,5 +35,4 @@ Backend runs on http://localhost:5000 and frontend on http://localhost:3000.
 
 Usage
 Open frontend in browser.
-
 Use the interface to add, edit, delete, or view books.
